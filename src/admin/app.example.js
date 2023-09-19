@@ -26,6 +26,7 @@ const config = {
     // 'vi',
     // 'zh-Hans',
     // 'zh',
+    // work
   ],
 };
 
